@@ -27,3 +27,5 @@ Thumbs.db
 
 # Generated figures from notebooks (uncomment to ignore)
 # python/*.png
+
+books/*
